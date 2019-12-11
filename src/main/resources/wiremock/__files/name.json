@@ -1,4 +1,5 @@
 {
+  "requestUrl": "{{request.url}}",
   "name": "John",
   "surname": "Doe"
 }
