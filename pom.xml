@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <wiremock-jre8.version>2.25.1</wiremock-jre8.version>
+        <wiremock-jre8.version>2.35.1</wiremock-jre8.version>
         <slf4j-simple.version>1.7.29</slf4j-simple.version>
         <maven-jar-plugin.version>3.2.0</maven-jar-plugin.version>
         <maven-assembly-plugin.version>3.2.0</maven-assembly-plugin.version>
